@@ -66,11 +66,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 #EXTINF:-1 group-title="央视",世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 #EXTINF:-1 group-title="CHC",家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+https://live.tv.darwinchow.com/channel/chcjiatingyingyuan?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
 #EXTINF:-1 group-title="CHC",影迷电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+https://live.tv.darwinchow.com/channel/chcyingmidianying?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
 #EXTINF:-1 group-title="CHC",动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+https://live.tv.darwinchow.com/channel/chcdongzuodianying?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
 #EXTINF:-1 group-title="中央新影",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 group-title="中央新影",发现之旅
@@ -367,5 +367,40 @@ rtmp://f13h.mine.nu:1935/sat/tv761
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 group-title="港澳台",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-
+#EXTINF:-1 group-title="NEWTV",爱情喜剧
+https://live.tv.darwinchow.com/channel/newtvaiqingxiju?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",潮妈辣婆
+https://live.tv.darwinchow.com/channel/newtvchaomalapo?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",动作电影
+https://live.tv.darwinchow.com/channel/newtvdongzuodianying?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",古装剧场
+https://live.tv.darwinchow.com/channel/newtvguzhuangjuchang?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",家庭剧场
+https://live.tv.darwinchow.com/channel/newtvjiatingjuchang?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",金牌综艺
+https://live.tv.darwinchow.com/channel/newtvjinpaizongyi?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",惊悚悬疑
+https://live.tv.darwinchow.com/channel/newtvjingsongxuanyi?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",精彩轮播
+https://live.tv.darwinchow.com/channel/newtvjingcailunbo?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",精品大剧
+https://live.tv.darwinchow.com/channel/newtvjingpindaju?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",精品纪录
+https://live.tv.darwinchow.com/channel/newtvjingpinjilu?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",精品萌宠
+https://live.tv.darwinchow.com/channel/newtvjingpinmengchong?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",精品体育
+https://live.tv.darwinchow.com/channel/newtvjingpintiyu?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",军旅剧场
+https://live.tv.darwinchow.com/channel/newtvjunlvjuchang?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",军事评论
+https://live.tv.darwinchow.com/channel/newtvjunshipinglun?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",热播精选
+https://live.tv.darwinchow.com/channel/newtvrebojingxuan?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",炫舞未来
+https://live.tv.darwinchow.com/channel/newtvxuanwuweilai?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",怡伴健康
+https://live.tv.darwinchow.com/channel/newtvyibanjiankang?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+#EXTINF:-1 group-title="NEWTV",中国功夫
+https://live.tv.darwinchow.com/channel/newtvzhongguogongfu?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
 
