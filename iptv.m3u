@@ -181,24 +181,18 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 #EXTINF:-1 group-title="陕西",都市青春
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
-#EXTINF:-1 group-title="陕西",陕西生活
+#EXTINF:-1 group-title="陕西",陕西银铃
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
-#EXTINF:-1 group-title="陕西",陕西公共
+#EXTINF:-1 group-title="陕西",陕西秦腔
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
-#EXTINF:-1 group-title="陕西",乐家购物
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
 #EXTINF:-1 group-title="陕西",体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
 #EXTINF:-1 group-title="陕西",西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 #EXTINF:-1 group-title="陕西",陕西移动
-http://stream.snrtv.com/sxbc-yd-sFRX18.m3u8
+http://stream.snrtv.com/sxbc-yd-tBSV27.m3u8
 #EXTINF:-1 group-title="陕西",农林卫视
-http://stream.snrtv.com/sxbc-nl-ovABH0.m3u8
-#EXTINF:-1 group-title="陕西",陕西银龄
-http://stream.snrtv.com/sxbc-3-mzDLTW.m3u8
-#EXTINF:-1 group-title="陕西",陕西秦腔
-http://stream.snrtv.com/sxbc-5-fivDE8.m3u8
+http://stream.snrtv.com/sxbc-nl-flIXY1.m3u8
 #EXTINF:-1 group-title="西安",新闻综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
 #EXTINF:-1 group-title="西安",都市频道
@@ -214,9 +208,9 @@ http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225919/index.m3u8
 #EXTINF:-1 group-title="鄠邑",鄠邑2
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225969/index.m3u8
 #EXTINF:-1 group-title="榆林",榆林综合
-https://hplayer1.juyun.tv/camera/140908134.m3u8
+https://hplayer1.juyun.tv/camera/186023110.m3u8
 #EXTINF:-1 group-title="榆林",文化旅游
-https://hplayer1.juyun.tv/camera/140909190.m3u8
+https://hplayer1.juyun.tv/camera/186022194.m3u8
 #EXTINF:-1 group-title="榆林",清涧一套
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225996/index.m3u8?
 #EXTINF:-1 group-title="桂林",频道综合
