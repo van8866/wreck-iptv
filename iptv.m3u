@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视",CCTV-8K超高清
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4K超高清
-https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WUDWkI5kpE42B0tb1Bs8UMNPYc7vqd5ljb1&userkey=adee47c8b37310ba
+https://http://107.150.60.122/live/cctv4k.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
@@ -116,7 +118,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1 group-title="卫 视",河南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225767/1.m3u8
 #EXTINF:-1 group-title="卫 视",安徽卫视
-http://live.sxrtv.com/iptv/ahws.m3u8
+http://207.56.13.146:81/cdnlive/ahws.m3u8
 #EXTINF:-1 group-title="卫 视",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 #EXTINF:-1 group-title="卫 视",湖南卫视
@@ -130,7 +132,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 group-title="卫 视",东方卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 group-title="卫 视",广东卫视
-https://live.sxrtv.com/iptv/gdws.flv
+http://119.123.78.80:8086/hls/44/index.m3u8
 #EXTINF:-1 group-title="卫 视",广西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
 #EXTINF:-1 group-title="卫 视",贵州卫视
@@ -152,7 +154,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
 #EXTINF:-1 group-title="卫 视",重庆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 #EXTINF:-1 group-title="卫 视",陕西卫视
-http://stream.snrtv.com/sxbc-star-JLQRW2.m3u8
+http://192.151.150.154/live/snwshd.m3u8
 #EXTINF:-1 group-title="卫 视",东南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
 #EXTINF:-1 group-title="卫 视",深圳卫视
@@ -164,9 +166,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225794/1.m3u8
 #EXTINF:-1 group-title="卫 视",康巴卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 #EXTINF:-1 group-title="卫 视",三沙卫视
-https://livessws.hnntv.cn/live/ssws_250708hnntv.m3u8?_upt=8d2ca7961753747097
+http://198.204.228.26/live/ssws.m3u8
 #EXTINF:-1 group-title="卫 视",大湾区卫视
-http://p.ytelc.com/169l/_jy/mg25.php?id=dwqws
+http://8.138.7.223/tv/dwq.m3u8
 #EXTINF:-1 group-title="卫 视",延边卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8
 #EXTINF:-1 group-title="卫 视",安多卫视
