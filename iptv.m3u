@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV-8K超高清
 http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 group-title="央视",CCTV-8K超高清
+http://198.204.228.26/live/cctv8k.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4K超高清高码
+http://hao6688.3322.org:30066/stream/channelid/444220679?ticket=4d56cb83348a3e3e75257e14239a0a76c18e1267&profile=pass
 #EXTINF:-1 group-title="央视",CCTV-4K超高清
 http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+#EXTINF:-1 group-title="央视",CCTV-4K超高清
+http://home.wscxy.fun:30100/udp/233.18.204.188:5140
 #EXTINF:-1 group-title="央视",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
