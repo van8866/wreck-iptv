@@ -180,9 +180,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8
 #EXTINF:-1 group-title="卫 视",安多卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="香港",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
+http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="香港",凤凰香港
 https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="陕西",新闻资讯
