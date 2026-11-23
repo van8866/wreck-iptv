@@ -215,7 +215,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225919/index.m3u8
 #EXTINF:-1 group-title="鄠邑",鄠邑2
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225969/index.m3u8
-#EXTINF:-1 group-title="商洛",山阳电视台
+#EXTINF:-1 group-title="商洛",山阳台
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225950/index.m3u8
 #EXTINF:-1 group-title="桂林",频道综合
 https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
