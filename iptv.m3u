@@ -74,11 +74,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 #EXTINF:-1 group-title="央视",世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 #EXTINF:-1 group-title="CHC",家庭影院
-http://hao6688.3322.org:30066/stream/channelid/1761842417?ticket=e470ada8428398790d83b3219c0297d0e56204e9&profile=pass
+http://198.204.228.26/live/chcjt.m3u8
 #EXTINF:-1 group-title="CHC",影迷电影
-http://hao6688.3322.org:30066/stream/channelid/312349659?ticket=f7c8ff9489e96758326da4649d484432a9bb99f1&profile=pass
+http://198.204.228.26/live/chchd.m3u8
 #EXTINF:-1 group-title="CHC",动作电影
-http://hao6688.3322.org:30066/stream/channelid/977583088?ticket=7b9e177c908c4e8de248874e7d6d2762825064d6&profile=pass
+http://198.204.228.26/live/chcdz.m3u8?ysp
 #EXTINF:-1 group-title="中央新影",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 group-title="中央新影",发现之旅
